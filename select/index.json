@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "『花びら哀歌』/ feat. 重音テトSV",
+  "base_artist": "MIMI",
+  "createdAt": "2026-02-23T09:47:03.099706Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "花びら哀歌 (feat. 重音テト)",
+      "artist": "MIMI",
+      "has_synced": false,
+      "path": "select/pl_01_花びら哀歌_(feat._重音テト)_MIMI.txt"
+    }
+  ]
+}
